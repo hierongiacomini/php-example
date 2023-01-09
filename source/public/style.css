@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(231, 231, 231);
+}
+
+.formLogin {
+    padding: 20px;
+    margin-top: 20vh;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 1px rgba(73, 73, 73, 0.521);
+}
